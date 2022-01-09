@@ -14,5 +14,5 @@
 
 [windows_internals]:https://docs.microsoft.com/en-us/sysinternals/resources/windows-internals
 [twitter]:https://twitter.com/enzo_berry
-[linkedin]:https://www.linkedin.com/in/enzo-berry-4470451ba/
+[linkedin]:https://www.linkedin.com/in/enzo-berry/
 [instagram]:https://www.instagram.com/enzoo.bry/
